@@ -1,0 +1,9 @@
+/* Navbar.css */
+.navbar-custom {
+  background-color: rgba(9, 9, 100, 0.808) !important; 
+}
+
+
+.button-spacing{
+  margin-right: 10px;
+}

@@ -1,0 +1,10 @@
+/* src/styles/StockDataWindow.css */
+.custom-stock-data-window {
+  font-family: 'Arial', sans-serif; /* Set your desired font */
+  color: #333; /* Set your default text color */
+}
+
+.custom-stock-data-window .stock-item {
+  font-family: 'Arial', sans-serif; /* Ensure stock items use the same font */
+  color: #333; /* Ensure stock items have default text color */
+}

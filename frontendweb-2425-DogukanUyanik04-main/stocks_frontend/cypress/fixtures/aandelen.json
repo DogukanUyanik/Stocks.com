@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "naam": "Google",
+      "afkorting": "GOOG",
+      "prijs": 1500
+    },
+    {
+      "id": 2,
+      "naam": "Apple",
+      "afkorting": "AAPL",
+      "prijs": 1300
+    },
+    {
+      "id": 3,
+      "naam": "Tesla",
+      "afkorting": "TSLA",
+      "prijs": 900
+    }
+  ]
+}

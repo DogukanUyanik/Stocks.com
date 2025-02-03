@@ -6,7 +6,7 @@
 
 ## Vereisten
 
-Following softwware should already by installed
+Following software should already by installed
 - [NodeJS](https://nodejs.org)
 - [Yarn](https://yarnpkg.com)
 - [MySQL Community Server](https://dev.mysql.com/downloads/mysql/)

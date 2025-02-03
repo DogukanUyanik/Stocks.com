@@ -1,4 +1,4 @@
-# Examenopdracht Front-end Web Development & Web Services
+# Fullstack mocktrading application
 
 - Student: DOGUKAN UYANIK
 - Studentennummer: 295314du

@@ -6,8 +6,7 @@
 
 ## Vereisten
 
-Ik verwacht dat volgende software reeds geïnstalleerd is:
-
+Following softwware should already by installed
 - [NodeJS](https://nodejs.org)
 - [Yarn](https://yarnpkg.com)
 - [MySQL Community Server](https://dev.mysql.com/downloads/mysql/)

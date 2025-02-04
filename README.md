@@ -2,6 +2,8 @@
 
 A full-stack mock stock trading platform that allows users to buy and sell stocks with virtual money, track their portfolio, and analyze stock prices.
 
+🚀 **Live Demo:** [frontendweb-2425-dogukanuyanik04.onrender.com](https://frontendweb-2425-dogukanuyanik04.onrender.com/)  
+
 ## 🚀 Features
 - 📊 **Stock Market Simulation** – Prices update every **5 seconds**.
 - 🔐 **User Authentication** – Secure login & registration.

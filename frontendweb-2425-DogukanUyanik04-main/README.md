@@ -4,7 +4,7 @@
 - Studentennummer: 295314du
 - E-mailadres: dogukan.uyanik@student.hogent.be
 
-## Vereisten
+## Requirements
 
 Following software should already by installed
 - [NodeJS](https://nodejs.org)

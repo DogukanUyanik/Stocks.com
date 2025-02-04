@@ -9,6 +9,7 @@ A full-stack mock stock trading platform that allows users to buy and sell stock
 - 🔐 **User Authentication** – Secure login & registration.
 - 💰 **Virtual Trading** – Users can buy and sell stocks with mock money.
 - 📈 **Portfolio Management** – View holdings and transaction history.
+- 🏆 **Leaderboard** – Displays top gainers based on portfolio performance.  
 - 🛠 **Admin Role** – Manage users and stock prices.
 
 ---

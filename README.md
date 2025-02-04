@@ -24,7 +24,7 @@ A full-stack mock stock trading platform that allows users to buy and sell stock
 - 🔷 **TypeScript** – Strongly-typed JavaScript
 - 🛢 **Prisma ORM** – Database management
 - 🔐 **JWT Authentication** – Secure logins
-- 🛠 **Express.js** – REST API framework
+- 🛠 **Koa.js** – REST API framework
 
 ### **Database**
 - 🗄 **MySQL** – Relational database
